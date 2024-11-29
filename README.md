@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  <div style="flex-direction: column"> 
+  <div style="display: flex, flex-direction: column"> 
   -asdasdasd
   -adsasda
   </div>
